@@ -16,7 +16,11 @@ Important Script files:
 
 I finished 89th on the private LB among the 1463 teams.  
 
-If I had selected the right submisssion ,I would have finished 76 on the private LeaderBoard.  
+If I had selected the right submisssion ,I would have finished 76 on the private Leaderboard. 
+
+Execution : Place all the data files in the current directory and execute featureEngineering_sessions.R  
+
+
 
 
 
