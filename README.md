@@ -12,7 +12,12 @@ Important Script files:
     featureEngineering.R          ---> generates the probability for each destination according to the sessions+userprofile features  
     air_definitions.R             ---> Includes all the function definitions of the generate the features  
     customfeval.R                  ---> contains the calculation for NCDG metric  
-    singleSubmission_hist_Nohist.R ---> Generates the submission file by integrating destination probability data both from users with browsing history/not with history
+    singleSubmission_hist_Nohist.R ---> Generates the submission file by integrating destination probability data both from users with browsing history/not with history  
+
+I finished 89th on the private LB among the 1463 teams.  
+
+If I had selected the right submisssion finished 76 on the private LeaderBoard.  
+
 
 
     
